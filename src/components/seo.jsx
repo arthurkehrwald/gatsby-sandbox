@@ -24,3 +24,5 @@ export const Seo = ({ title, description, pathname, children }) => {
         </>
     )
 }
+
+export default Seo
